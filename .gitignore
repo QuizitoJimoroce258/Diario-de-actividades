@@ -1,0 +1,43 @@
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.dbgit credential-manager reject https://github.com
+
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+*.backup
+*.old
+
+# Node.js (caso use npm)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+
+# Arquivos de pacotes
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos pessoais
+*.env
+*.sqlite
+*.db
