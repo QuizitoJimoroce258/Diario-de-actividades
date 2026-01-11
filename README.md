@@ -1,19 +1,19 @@
-# 📘 Diário de Actividades
+# Diário de Actividades
 
 Este repositório tem como objectivo organizar e documentar minhas atividades diárias, acadêmicas e profissionais, facilitando o acompanhamento do progresso e evolução.
 
 ---
 
-## 🎯 Metas
+##  Metas
 
-- ✅ Registrar actividades diárias com detalhes e datas
-- 📚 Documentar estudos, projectos e aprendizados
-- 🚀 Desenvolver habilidades técnicas e pessoais
-- 🗂️ Manter um histórico organizado e acessível
+-  Registrar actividades diárias com detalhes e datas
+-  Documentar estudos, projectos e aprendizados
+-  Desenvolver habilidades técnicas e pessoais
+-  Manter um histórico organizado e acessível
 
 ---
 
-## 🗂️ Estrutura do Repositório
+##  Estrutura do Repositório
 
 - 📅 `diario/` – Registros diários e tarefas concluídas
 - 📚 `estudos/` – Anotações, resumos e exercícios
@@ -22,7 +22,7 @@ Este repositório tem como objectivo organizar e documentar minhas atividades di
 
 ---
 
-## 🛠️ Tecnologias Usadas
+##  Tecnologias Usadas
 
 - <img src="https://cdn.simpleicons.org/html5/E34F26" width="20"/> HTML
 - <img src="https://cdn.simpleicons.org/css3/1572B6" width="20"/> CSS
@@ -32,7 +32,7 @@ Este repositório tem como objectivo organizar e documentar minhas atividades di
 
 ---
 
-## 🚀 Se desejar sugerir melhorias ou contribuir com ideias:
+##  Se desejar sugerir melhorias ou contribuir com ideias:
 
 1. Faça um fork do repositório
 2. Crie uma branch com a sua feature (`git checkout -b minha-feature`)
@@ -42,7 +42,7 @@ Este repositório tem como objectivo organizar e documentar minhas atividades di
 
 ---
 
-## ✨ Autor
+
 
 **Quizito Alberto Armando Jimoroce**  
 📍 Moçambique, Beira  
